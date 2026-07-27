@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "months": [
+    {
+      "year": 2026,
+      "month": 1,
+      "file": "2026-01.json",
+      "hash": "79df94d8"
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "file": "2026-02.json",
+      "hash": "406f38af"
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "file": "2026-03.json",
+      "hash": "e44acb6c"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "file": "2026-04.json",
+      "hash": "a38e8e4d"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "file": "2026-05.json",
+      "hash": "ccc5602b"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "file": "2026-06.json",
+      "hash": "dc20c9c1"
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "file": "2026-07.json",
+      "hash": "2f7bbe8f"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "file": "2026-08.json",
+      "hash": "dfbec41e"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "file": "2026-09.json",
+      "hash": "d94caec3"
+    }
+  ]
+}
