@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fyi.ahh.daylight",
+      "sha256_cert_fingerprints": [
+        "58:FC:B3:C7:A3:CB:0D:09:37:AA:F7:97:0D:BC:CB:27:FD:0F:82:23:53:8E:D9:C3:6E:64:30:E4:46:BA:D5:BC",
+        "B8:3F:84:41:88:11:7D:49:66:05:CC:9C:4F:84:DB:0F:C2:79:6D:6F:88:F3:06:75:B8:F8:0B:CC:01:D1:11:7B"
+      ]
+    }
+  }
+]
